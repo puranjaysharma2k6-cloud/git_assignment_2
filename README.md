@@ -1,2 +1,4 @@
 # git_assignment_2
-for assignment
+Name - puranjay sharma
+Roll No- 2024BCS-056
+Batch - BCS 
